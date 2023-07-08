@@ -1,0 +1,18 @@
+[
+    {
+        "package": "valve",
+        "url": "https://github.com/josiahparry/valve"
+    },
+    {
+        "package": "sfdep",
+        "url": "https://github.com/josiahparry/sfdep"
+    },
+    {
+        "package": "h3o",
+        "url": "https://github.com/josiahparry/h3o"
+    },
+    {
+        "package": "sdf",
+        "url": "https://github.com/josiahparry/sdf"
+    }
+]
