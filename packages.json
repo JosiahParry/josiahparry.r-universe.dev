@@ -4,6 +4,10 @@
         "url": "https://github.com/josiahparry/valve"
     },
     {
+        "package": "rsgeo",
+        "url": "https://github.com/josiahparry/rsgeo"
+    },
+    {
         "package": "sfdep",
         "url": "https://github.com/josiahparry/sfdep"
     },
