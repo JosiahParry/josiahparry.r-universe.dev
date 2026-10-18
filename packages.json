@@ -12,15 +12,19 @@
         "url": "https://github.com/josiahparry/sfdep"
     },
     {
-        "package": "h3o",
-        "url": "https://github.com/josiahparry/h3o"
-    },
-    {
         "package": "uwu",
         "url": "https://github.com/josiahparry/uwu"
     },
     {
         "package": "sdf",
         "url": "https://github.com/josiahparry/sdf"
+    },
+    {
+        "package": "spdgp",
+        "url": "https://github.com/josiahparry/spdgp"
+    },
+    {
+        "package": "trendyy",
+        "url": "https://github.com/josiahparry/trendyy"
     }
 ]
